@@ -1,4 +1,6 @@
-# fallout-1-walkthrough
+# Fallout 1 Walkthrough
+
+View it here: https://lemmings19.github.io/fallout-1-walkthrough/
 
 A copy of a comprehensive Fallout 1 walkthrough written by Per Jorner. This upload serves as a backup of the original work should its source ever be lost.
 
@@ -8,4 +10,4 @@ A copy of a comprehensive Fallout 1 walkthrough written by Per Jorner. This uplo
 
 Source: http://user.tninet.se/~jyg699a/fallout.html
 
-v1.1
+v1.1.1
